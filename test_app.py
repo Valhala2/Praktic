@@ -1,4 +1,3 @@
-import pytest
 from lab import add
 
 
